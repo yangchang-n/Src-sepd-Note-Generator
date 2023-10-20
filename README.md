@@ -3,5 +3,4 @@
 
 ## References
 
-- [hufs-vrr/vrr](https://github.com/hufs-vrr/vrr)
-- [kotritrona/osumapper](https://github.com/kotritrona/osumapper)
+- [Valerio Velardo, Deep Learning for audio with Python](https://github.com/musikalkemist/DeepLearningForAudioWithPython)
